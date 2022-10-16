@@ -1,0 +1,2435 @@
+{
+   "objectIdFieldName": "OBJECTID",
+   "uniqueIdField": {
+      "name": "OBJECTID",
+      "isSystemMaintained": true
+   },
+   "globalIdFieldName": "",
+   "geometryType": "esriGeometryPoint",
+   "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+   },
+   "fields": [
+      {
+         "name": "SCHOOL_NAME",
+         "type": "esriFieldTypeString",
+         "alias": "SCHOOL NAME",
+         "sqlType": "sqlTypeOther",
+         "length": 50,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "ADDRESS",
+         "type": "esriFieldTypeString",
+         "alias": "ADDRESS",
+         "sqlType": "sqlTypeOther",
+         "length": 50,
+         "domain": null,
+         "defaultValue": null
+      }
+   ],
+   "features": [
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BERYL FORD P.S.",
+            "ADDRESS": "45 IRONSHIELD DR"
+         },
+         "geometry": {
+            "x": -79.66956789645043,
+            "y": 43.79068314403572
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "XYNA INTERNATIONAL HIGH SCHOOL",
+            "ADDRESS": "300-60 GILLINGHAM DR"
+         },
+         "geometry": {
+            "x": -79.78645602644978,
+            "y": 43.704100751329655
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LOTE TREE FOUNDATION",
+            "ADDRESS": "291 GREAT LAKES DR"
+         },
+         "geometry": {
+            "x": -79.76951250218512,
+            "y": 43.73756997275267
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LEARNING GENIUS ACADEMY INC",
+            "ADDRESS": "204-4515 EBENEZER RD"
+         },
+         "geometry": {
+            "x": -79.6622229730091,
+            "y": 43.7724365871091
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "KHALSA COMMUNITY SCHOOL",
+            "ADDRESS": "69 MAITLAND ST"
+         },
+         "geometry": {
+            "x": -79.7400005990377,
+            "y": 43.73064312568253
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "OUR LADY OF LOURDES CATHOLIC E.S.",
+            "ADDRESS": "25 MOUNT ROYAL CIRCLE"
+         },
+         "geometry": {
+            "x": -79.74694135636626,
+            "y": 43.791187914496135
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ALGOMA UNIVERSITY",
+            "ADDRESS": "10224 QUEEN ST"
+         },
+         "geometry": {
+            "x": -79.75944885448412,
+            "y": 43.68674645191526
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MAKKI ISLAMIC LEARNING CENTRE",
+            "ADDRESS": "8450 TORBRAM RD"
+         },
+         "geometry": {
+            "x": -79.69049479966381,
+            "y": 43.72160508207985
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. PATRICK SEPARATE E.S.",
+            "ADDRESS": "11948 THE GORE RD"
+         },
+         "geometry": {
+            "x": -79.72682667844975,
+            "y": 43.81759598213886
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HOLY NAME OF MARY CATHOLIC S.S.",
+            "ADDRESS": "115 GLENVALE BLVD"
+         },
+         "geometry": {
+            "x": -79.7164433933236,
+            "y": 43.733826645634224
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LARKSPUR P.S.",
+            "ADDRESS": "111 LARKSPUR RD"
+         },
+         "geometry": {
+            "x": -79.74941413315844,
+            "y": 43.754362805498
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. FRANCIS XAVIER E.S.",
+            "ADDRESS": "111 BARTLEY BULL PKY"
+         },
+         "geometry": {
+            "x": -79.73828376328231,
+            "y": 43.67480872478028
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. URSULA E.S.",
+            "ADDRESS": "11 DWELLERS RD"
+         },
+         "geometry": {
+            "x": -79.79998607731335,
+            "y": 43.68904980808456
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. MARGUERITE D'YOUVILLE S.S.",
+            "ADDRESS": "10815 DIXIE RD"
+         },
+         "geometry": {
+            "x": -79.77654204013858,
+            "y": 43.75218137786684
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "PARKHOLME SCHOOL",
+            "ADDRESS": "10750 CHINGUACOUSY RD"
+         },
+         "geometry": {
+            "x": -79.8282620373232,
+            "y": 43.69987362600318
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FLETCHER'S MEADOW S.S.",
+            "ADDRESS": "10750 CHINGUACOUSY RD"
+         },
+         "geometry": {
+            "x": -79.82867821573127,
+            "y": 43.700148727385546
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROBERT H. LAGERQUIST SR.P.S.",
+            "ADDRESS": "105 RICHVALE DR N"
+         },
+         "geometry": {
+            "x": -79.79544299908544,
+            "y": 43.73246119906303
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ESKER LAKE P.S.",
+            "ADDRESS": "10420 HEART LAKE RD N"
+         },
+         "geometry": {
+            "x": -79.77734389441939,
+            "y": 43.732651786186736
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FOLKSTONE P.S.",
+            "ADDRESS": "104 FOLKSTONE CRES"
+         },
+         "geometry": {
+            "x": -79.70651995267202,
+            "y": 43.73010034129091
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. AGNES E.S.",
+            "ADDRESS": "103 RICHVALE DR S"
+         },
+         "geometry": {
+            "x": -79.78075383970972,
+            "y": 43.72484535950671
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. KEVIN SEPARATE E.S.",
+            "ADDRESS": "103 MALTA AVE"
+         },
+         "geometry": {
+            "x": -79.73174103332211,
+            "y": 43.66085634930161
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JOHN BOSCO E.S.",
+            "ADDRESS": "1025 NORTH PARK DR"
+         },
+         "geometry": {
+            "x": -79.73303630521694,
+            "y": 43.74221958077233
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HILLDALE P.S.",
+            "ADDRESS": "100 HILLDALE CRES"
+         },
+         "geometry": {
+            "x": -79.72825440483734,
+            "y": 43.72917532221148
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "DORSET DRIVE P.S.",
+            "ADDRESS": "100 DORSET DR"
+         },
+         "geometry": {
+            "x": -79.6989764042989,
+            "y": 43.71607823127736
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SPRINGDALE P.S.",
+            "ADDRESS": "100 DEWSIDE DR"
+         },
+         "geometry": {
+            "x": -79.76672725124065,
+            "y": 43.75371031331438
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NORTH PARK S.S.",
+            "ADDRESS": "10 NORTH PARK DR"
+         },
+         "geometry": {
+            "x": -79.74841849106869,
+            "y": 43.72046587731897
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SHAW P.S.",
+            "ADDRESS": "10 FATHER TOBIN RD"
+         },
+         "geometry": {
+            "x": -79.75148413383529,
+            "y": 43.77525153767049
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CARDINAL AMBROZIC CATHOLIC S.S.",
+            "ADDRESS": "10 CASTLE OAKS CROSS"
+         },
+         "geometry": {
+            "x": -79.68331672913287,
+            "y": 43.788158334508026
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. CECILIA E.S.",
+            "ADDRESS": "10 BRICKYARD WAY"
+         },
+         "geometry": {
+            "x": -79.78078235598369,
+            "y": 43.70459684944006
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "APPLEWOOD MONTESSORI ACADEMY & DAYCARE",
+            "ADDRESS": "1-333 FAIRHILL AVE"
+         },
+         "geometry": {
+            "x": -79.8179887323987,
+            "y": 43.692416700208426
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "AL-IMAN SCHOOL",
+            "ADDRESS": "1-253 SUMMERLEA RD"
+         },
+         "geometry": {
+            "x": -79.70018737142945,
+            "y": 43.73585143895159
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "JOHN KNOX CHRISTIAN SCHOOL",
+            "ADDRESS": "82 MCLAUGHLIN RD S"
+         },
+         "geometry": {
+            "x": -79.76365605493122,
+            "y": 43.6721521314935
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. BRIGID E.S.",
+            "ADDRESS": "81 TORRANCE WOODS"
+         },
+         "geometry": {
+            "x": -79.75973648647181,
+            "y": 43.658402962489625
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "RED WILLOW P.S.",
+            "ADDRESS": "80 REDWILLOW RD"
+         },
+         "geometry": {
+            "x": -79.70131121839847,
+            "y": 43.77343888802023
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JOSEPH BRAMPTON E.S.",
+            "ADDRESS": "8 PARKWAY AVE"
+         },
+         "geometry": {
+            "x": -79.77880168816782,
+            "y": 43.67686719191651
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "TURNER FENTON S.S.",
+            "ADDRESS": "7935 KENNEDY RD S"
+         },
+         "geometry": {
+            "x": -79.719247071758,
+            "y": 43.67497273684452
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SHERIDAN COLLEGE DAVIS CAMPUS",
+            "ADDRESS": "7899 MCLAUGHLIN RD"
+         },
+         "geometry": {
+            "x": -79.73892050240651,
+            "y": 43.65632779823436
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ADULT EDUCATION CENTRE BRAMPTON CAMPUS",
+            "ADDRESS": "7700 HURONTARIO ST"
+         },
+         "geometry": {
+            "x": -79.72632982475454,
+            "y": 43.65897208798911
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROYAL ORCHARD M.S.",
+            "ADDRESS": "77 ROYAL ORCHARD DR"
+         },
+         "geometry": {
+            "x": -79.78654294571079,
+            "y": 43.69458884180282
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ECOLE SECONDAIRE JEUNES SANS FRONTIERES",
+            "ADDRESS": "7585 FINANCIAL DR"
+         },
+         "geometry": {
+            "x": -79.75813804156357,
+            "y": 43.62442378658498
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WALI UL ASR SCHOOL - GTA WEST CAMPUS",
+            "ADDRESS": "7580 KENNEDY RD S"
+         },
+         "geometry": {
+            "x": -79.71153771224625,
+            "y": 43.66736256483771
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CARDINAL LEGER S.S.",
+            "ADDRESS": "75 MARY ST"
+         },
+         "geometry": {
+            "x": -79.75164320555024,
+            "y": 43.68421260251981
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WORTHINGTON P.S.",
+            "ADDRESS": "71 WORTHINGTON AVE"
+         },
+         "geometry": {
+            "x": -79.81857694140972,
+            "y": 43.68445911831472
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "EASTBOURNE DRIVE P.S.",
+            "ADDRESS": "702 BALMORAL DR"
+         },
+         "geometry": {
+            "x": -79.69621226144766,
+            "y": 43.72186843928552
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NORTHWOOD P.S.",
+            "ADDRESS": "70 GRETNA DR"
+         },
+         "geometry": {
+            "x": -79.77511175613881,
+            "y": 43.674928383494205
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CARDINAL NEWMAN CATHOLIC E.S.",
+            "ADDRESS": "698 BALMORAL DR"
+         },
+         "geometry": {
+            "x": -79.69982857209831,
+            "y": 43.721858538727815
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. MARY E.S.",
+            "ADDRESS": "66 MAIN ST S"
+         },
+         "geometry": {
+            "x": -79.7533155460054,
+            "y": 43.683881265406846
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MOUNT ROYAL P.S.",
+            "ADDRESS": "65 MOUNT ROYAL CIR"
+         },
+         "geometry": {
+            "x": -79.74852865788733,
+            "y": 43.79020945126551
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "QUEEN STREET P.S.",
+            "ADDRESS": "20 ACADEMIC DR"
+         },
+         "geometry": {
+            "x": -79.77242614860117,
+            "y": 43.670587414353975
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HICKORY WOOD P.S.",
+            "ADDRESS": "630 RAY LAWSON BLVD"
+         },
+         "geometry": {
+            "x": -79.74290179249968,
+            "y": 43.64631409298463
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SIR WILLIAM GAGE M.S.",
+            "ADDRESS": "625 QUEEN ST W"
+         },
+         "geometry": {
+            "x": -79.774402090881,
+            "y": 43.67189389128205
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FATHER C.W. SULLIVAN E.S.",
+            "ADDRESS": "62 SEABORN RD"
+         },
+         "geometry": {
+            "x": -79.74692950868821,
+            "y": 43.706237007824726
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GUARDIAN ANGELS E.S.",
+            "ADDRESS": "62 HEATHERDALE DR"
+         },
+         "geometry": {
+            "x": -79.81943492588175,
+            "y": 43.68655335660964
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "EDENBROOK HILL P.S.",
+            "ADDRESS": "61 EDENBROOK HILL DR"
+         },
+         "geometry": {
+            "x": -79.80831746800276,
+            "y": 43.69563755940685
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. MONICA E.S.",
+            "ADDRESS": "60 STERRITT DR"
+         },
+         "geometry": {
+            "x": -79.77217908782522,
+            "y": 43.665047957852195
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ALOMA CRESCENT P.S.",
+            "ADDRESS": "57 ALOMA CRES"
+         },
+         "geometry": {
+            "x": -79.7037223761725,
+            "y": 43.708135606522426
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "PAULINE VANIER CATHOLIC E.S.",
+            "ADDRESS": "56 OAKLEA BLVD"
+         },
+         "geometry": {
+            "x": -79.7344918902586,
+            "y": 43.646715489830555
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. MARGUERITE BOURGEOYS SEPARATE E.S.",
+            "ADDRESS": "550 NORTH PARK DR"
+         },
+         "geometry": {
+            "x": -79.75384781261573,
+            "y": 43.727704423944374
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FATHER FRANCIS MCSPIRITT CATHOLIC E.S.",
+            "ADDRESS": "55 LEXINGTON RD"
+         },
+         "geometry": {
+            "x": -79.69824980928314,
+            "y": 43.77465448016147
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CARBERRY P.S.",
+            "ADDRESS": "526 FERNFOREST DR"
+         },
+         "geometry": {
+            "x": -79.77493268757812,
+            "y": 43.75626880297041
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BIRCHBANK P.S.",
+            "ADDRESS": "52 BIRCHBANK RD"
+         },
+         "geometry": {
+            "x": -79.7058238748772,
+            "y": 43.7029919549219
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FALLINGDALE P.S.",
+            "ADDRESS": "510 CLARK BLVD"
+         },
+         "geometry": {
+            "x": -79.7099196366774,
+            "y": 43.7230033328912
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BRAMALEA S.S.",
+            "ADDRESS": "510 BALMORAL DR"
+         },
+         "geometry": {
+            "x": -79.70750473234435,
+            "y": 43.715603242824
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SOMERSET DRIVE P.S.",
+            "ADDRESS": "50 SOMERSET DR"
+         },
+         "geometry": {
+            "x": -79.80338039622892,
+            "y": 43.72901300233184
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "EARNSCLIFFE SR.P.S.",
+            "ADDRESS": "50 EARNSCLIFFE CIR"
+         },
+         "geometry": {
+            "x": -79.70453882597819,
+            "y": 43.72313121207122
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "COPELAND P.S.",
+            "ADDRESS": "5 YOUNG DR"
+         },
+         "geometry": {
+            "x": -79.76270786848943,
+            "y": 43.65019483286672
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WILLIAM G. DAVIS SR.P.S.",
+            "ADDRESS": "491 BARTLEY BULL PKY"
+         },
+         "geometry": {
+            "x": -79.73258505180323,
+            "y": 43.6709420065215
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MADOC DRIVE P.S.",
+            "ADDRESS": "49 MADOC DR"
+         },
+         "geometry": {
+            "x": -79.74927291891237,
+            "y": 43.70334216391991
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "JEFFERSON P.S.",
+            "ADDRESS": "48 JEFFERSON RD"
+         },
+         "geometry": {
+            "x": -79.7303145667517,
+            "y": 43.738275331805184
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LOUGHEED M.S.",
+            "ADDRESS": "475 FATHER TOBIN RD"
+         },
+         "geometry": {
+            "x": -79.7711569669581,
+            "y": 43.75682719919191
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BLESSSED MICHAEL J. MCGIVNEY CATHOLIC E.S.",
+            "ADDRESS": "450 FERNFOREST DR"
+         },
+         "geometry": {
+            "x": -79.76829315717087,
+            "y": 43.75274815801371
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "DOON SCHOOL",
+            "ADDRESS": "4-375 HOWDEN BLVD"
+         },
+         "geometry": {
+            "x": -79.74283390372874,
+            "y": 43.71806129126119
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NOON ACADEMY",
+            "ADDRESS": "6&7-12 RUTHERFORD RD S"
+         },
+         "geometry": {
+            "x": -79.74013905449645,
+            "y": 43.70109416316719
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LESTER B. PEARSON CATHOLIC E.S.",
+            "ADDRESS": "140 HOWDEN BLVD"
+         },
+         "geometry": {
+            "x": -79.72882003450486,
+            "y": 43.72299867859516
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JEAN BREBEUF E.S.",
+            "ADDRESS": "63 GLENFOREST RD"
+         },
+         "geometry": {
+            "x": -79.72468293789117,
+            "y": 43.73420818100133
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GREENBRIAR M.S.",
+            "ADDRESS": "1140 CENTRAL PARK DR"
+         },
+         "geometry": {
+            "x": -79.7156646459542,
+            "y": 43.73629761388042
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GRENOBLE P.S.",
+            "ADDRESS": "33 GREENBRIAR RD"
+         },
+         "geometry": {
+            "x": -79.71740962429186,
+            "y": 43.73817474651973
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CHURCHVILLE P.S.",
+            "ADDRESS": "90 BONNIE BRAES DR"
+         },
+         "geometry": {
+            "x": -79.7804997811038,
+            "y": 43.656387424440915
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MONTESSORI LEADERS SCHOOL",
+            "ADDRESS": "1&2-20 RED MAPLE DR"
+         },
+         "geometry": {
+            "x": -79.79153975293372,
+            "y": 43.69261990988254
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "KMSCHOOL",
+            "ADDRESS": "207-5 CHERRYCREST DR"
+         },
+         "geometry": {
+            "x": -79.67078012160984,
+            "y": 43.76483580492221
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "PREMIUM INSTITUTE OF EXCELLENCE",
+            "ADDRESS": "213-4515 EBENEZER RD"
+         },
+         "geometry": {
+            "x": -79.66210738823838,
+            "y": 43.77207222120782
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SONGBIRDS MONTESSORI SCHOOL",
+            "ADDRESS": "11-2 FISHERMAN DR"
+         },
+         "geometry": {
+            "x": -79.8009990935955,
+            "y": 43.71497528472152
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "AGNES TAYLOR P.S.",
+            "ADDRESS": "80 BEECH ST"
+         },
+         "geometry": {
+            "x": -79.7580541396468,
+            "y": 43.69801303276223
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MCCLURE P.S.",
+            "ADDRESS": "50 PARITY RD"
+         },
+         "geometry": {
+            "x": -79.79367654801081,
+            "y": 43.6712736180194
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "COUNTRYSIDE VILLAGE P.S.",
+            "ADDRESS": "40 DOLBYHILL DR"
+         },
+         "geometry": {
+            "x": -79.78237126439053,
+            "y": 43.758854985720866
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "DOLSON P.S.",
+            "ADDRESS": "95 REMEMBERANCE RD"
+         },
+         "geometry": {
+            "x": -79.85110262294376,
+            "y": 43.69506469322119
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "AL-AMEEN ELEMENTARY SCHOOL",
+            "ADDRESS": "201-389 MAIN ST N"
+         },
+         "geometry": {
+            "x": -79.77297404032201,
+            "y": 43.694986556689294
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CAREER QUEST- BRAMPTON",
+            "ADDRESS": "303-201 COUNTY COURT BLVD"
+         },
+         "geometry": {
+            "x": -79.7219911913703,
+            "y": 43.66018140129786
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GOBIND SARVAR BRAMPTON",
+            "ADDRESS": "4-187 DEERHURST DRIVE"
+         },
+         "geometry": {
+            "x": -79.66772991845889,
+            "y": 43.74535127438119
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GREEN APPLE ALTERNATIVE SCHOOL",
+            "ADDRESS": "202-5 BRISDALE DR"
+         },
+         "geometry": {
+            "x": -79.8116850277172,
+            "y": 43.683852634214304
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "KNOX BRIDGE SCHOOL",
+            "ADDRESS": "204-9886 TORBRAM RD"
+         },
+         "geometry": {
+            "x": -79.72797348073476,
+            "y": 43.749370126599835
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NORTHVIEW COLLEGIATE",
+            "ADDRESS": "202,204-2 DEWSIDE DR"
+         },
+         "geometry": {
+            "x": -79.762235706822,
+            "y": 43.7571872915548
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NUCLEUS HIGH SCHOOL",
+            "ADDRESS": "415-2250 BOVAIRD DR"
+         },
+         "geometry": {
+            "x": -79.73843044115603,
+            "y": 43.751072580384516
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SPRINGBROOK P.S.",
+            "ADDRESS": "145 JORDENSEN DR"
+         },
+         "geometry": {
+            "x": -79.79482776652364,
+            "y": 43.66606758006128
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "AYLESBURY P.S.",
+            "ADDRESS": "25 AYLESBURY DR"
+         },
+         "geometry": {
+            "x": -79.83165535722715,
+            "y": 43.6780196913211
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CASTLE OAKS P.S.",
+            "ADDRESS": "155 CASTLE OAKS CROSSING"
+         },
+         "geometry": {
+            "x": -79.67098699267844,
+            "y": 43.79474013859646
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NELSON MENDELA P.S.",
+            "ADDRESS": "10125 CHINGUACOUSY ROAD"
+         },
+         "geometry": {
+            "x": -79.81387979538465,
+            "y": 43.691391128351114
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROSS DRIVE P.S.",
+            "ADDRESS": "40 ROSS DRIVE"
+         },
+         "geometry": {
+            "x": -79.78443752538153,
+            "y": 43.75098485407078
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "JEAN AUGUSTINE S.S.",
+            "ADDRESS": "500 ELBERN MARKELL DR"
+         },
+         "geometry": {
+            "x": -79.82644331030424,
+            "y": 43.66730748022988
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ALPHONSA CATHOLIC E.S",
+            "ADDRESS": "60 OLIVIA MARIE RD"
+         },
+         "geometry": {
+            "x": -79.77170465286704,
+            "y": 43.63520574561593
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WHALEY'S CORNERS P.S.",
+            "ADDRESS": "140 HOWARD STEWART RD"
+         },
+         "geometry": {
+            "x": -79.78757199791244,
+            "y": 43.6309345613644
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "TRIBUNE DRIVE P.S.",
+            "ADDRESS": "30 TRIBUNE DR"
+         },
+         "geometry": {
+            "x": -79.84021972976348,
+            "y": 43.69065479694153
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CENTENNIAL SR.P.S.",
+            "ADDRESS": "50 LADORE DR"
+         },
+         "geometry": {
+            "x": -79.74938329225701,
+            "y": 43.67305497592021
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JOACHIM E.S.",
+            "ADDRESS": "435 RUTHERFORD RD N"
+         },
+         "geometry": {
+            "x": -79.76708298384617,
+            "y": 43.713254174541724
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JOSEPHINE BAKHITA CATHOLIC E.S.",
+            "ADDRESS": "430 VAN KIRK DR"
+         },
+         "geometry": {
+            "x": -79.8265702076812,
+            "y": 43.72094509949446
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HAROLD M. BRATHWAITE S.S.",
+            "ADDRESS": "415 GREAT LAKES DR"
+         },
+         "geometry": {
+            "x": -79.77045750418192,
+            "y": 43.739655132677896
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "EAGLE PLAINS P.S.",
+            "ADDRESS": "40 EAGLE PLAINS DR"
+         },
+         "geometry": {
+            "x": -79.74251841661138,
+            "y": 43.77350748045506
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "OUR LADY OF FATIMA E.S.",
+            "ADDRESS": "39 SUNSET BLVD"
+         },
+         "geometry": {
+            "x": -79.77785691198136,
+            "y": 43.68829412981191
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HAROLD F. LOUGHIN P.S.",
+            "ADDRESS": "39 HERKLEY DR"
+         },
+         "geometry": {
+            "x": -79.74765641639063,
+            "y": 43.70855129564442
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ECOLE ELEMENTAIRE CARREFOUR DES JEUNES",
+            "ADDRESS": "375 CENTRE ST N"
+         },
+         "geometry": {
+            "x": -79.77214258955597,
+            "y": 43.70701766693054
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BRISDALE P.S.",
+            "ADDRESS": "370 BRISDALE DR"
+         },
+         "geometry": {
+            "x": -79.83693985951354,
+            "y": 43.69839387811732
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LOUISE ARBOUR S.S.",
+            "ADDRESS": "365 FATHER TOBIN RD"
+         },
+         "geometry": {
+            "x": -79.76684430923267,
+            "y": 43.75989365431498
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CHINGUACOUSY S.S.",
+            "ADDRESS": "1370 WILLIAMS PKY"
+         },
+         "geometry": {
+            "x": -79.72842468699291,
+            "y": 43.73720222353734
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "THORNDALE P.S.",
+            "ADDRESS": "133 THORNDALE RD"
+         },
+         "geometry": {
+            "x": -79.67007509257736,
+            "y": 43.7820079885907
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "JUDITH NYMAN S.S.",
+            "ADDRESS": "1305 WILLIAMS PKY"
+         },
+         "geometry": {
+            "x": -79.73060042153944,
+            "y": 43.73243363514601
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WILLIAMS PARKWAY SR.P.S.",
+            "ADDRESS": "1285 WILLIAMS PKY"
+         },
+         "geometry": {
+            "x": -79.7331321040274,
+            "y": 43.73074015261249
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ANNE E.S.",
+            "ADDRESS": "124 VODDEN ST E"
+         },
+         "geometry": {
+            "x": -79.76395822236171,
+            "y": 43.69962493051564
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. MARIA GORETTI E.S.",
+            "ADDRESS": "121 ROYAL ORCHARD DR"
+         },
+         "geometry": {
+            "x": -79.78892586473853,
+            "y": 43.696449924215095
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JEAN-MARIE VIANNEY CATHOLIC E.S.",
+            "ADDRESS": "75 JORDENSEN DR"
+         },
+         "geometry": {
+            "x": -79.8009202347374,
+            "y": 43.66964851925187
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "INNOCENT HEARTS SECONDARY SCHOOL",
+            "ADDRESS": "15-60 COTTRELLE BLVD"
+         },
+         "geometry": {
+            "x": -79.71626412835472,
+            "y": 43.75917005558788
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ANDRE BESSETTE CATHOLIC E.S.",
+            "ADDRESS": "25 RIVERSTONE DR"
+         },
+         "geometry": {
+            "x": -79.67432392460472,
+            "y": 43.76548435589802
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "LORENVILLE P.S.",
+            "ADDRESS": "10 LORENVILLE DR"
+         },
+         "geometry": {
+            "x": -79.81016422163052,
+            "y": 43.663366155640034
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WALNUT GROVE P.S.",
+            "ADDRESS": "10 PINESTAFF RD"
+         },
+         "geometry": {
+            "x": -79.69500712363296,
+            "y": 43.77958295859838
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ELDORADO P.S.",
+            "ADDRESS": "25 WARDSVILLE DR"
+         },
+         "geometry": {
+            "x": -79.77987109384262,
+            "y": 43.63472949665309
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SIR ISAAC BROCK P.S.",
+            "ADDRESS": "45 MELTWATER CRES"
+         },
+         "geometry": {
+            "x": -79.6751874613153,
+            "y": 43.795380682556825
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CASTLEMORE P.S.",
+            "ADDRESS": "9916 THE GORE RD"
+         },
+         "geometry": {
+            "x": -79.68801058910437,
+            "y": 43.78964807115629
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HOMESTEAD P.S.",
+            "ADDRESS": "99 FLETCHERS CREEK BLVD"
+         },
+         "geometry": {
+            "x": -79.79863750671058,
+            "y": 43.688361249828404
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MOUNT PLEASANT VILLAGE P.S.",
+            "ADDRESS": "100 COMMUTER DR"
+         },
+         "geometry": {
+            "x": -79.82397523195934,
+            "y": 43.67718517882054
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "DAVID SUZUKI S.S.",
+            "ADDRESS": "45 DAVISELM DR"
+         },
+         "geometry": {
+            "x": -79.7874774840871,
+            "y": 43.66834289417654
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SIR WILFRID LAURIER P.S.",
+            "ADDRESS": "364 BARTLEY BULL PKY"
+         },
+         "geometry": {
+            "x": -79.72702782499648,
+            "y": 43.677308269098226
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GLENDALE P.S.",
+            "ADDRESS": "35 SUNSET BLVD"
+         },
+         "geometry": {
+            "x": -79.77649564442463,
+            "y": 43.68742357034505
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. BONAVENTURE CATHOLIC E.S.",
+            "ADDRESS": "35 MCCRIMMON DR"
+         },
+         "geometry": {
+            "x": -79.82919866512307,
+            "y": 43.68720744809208
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "OUR LADY OF PROVIDENCE E.S.",
+            "ADDRESS": "35 BLACK OAK DR"
+         },
+         "geometry": {
+            "x": -79.76009955069257,
+            "y": 43.7440889019776
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. AIDAN CATHOLIC E.S.",
+            "ADDRESS": "34 BUICK BLVD"
+         },
+         "geometry": {
+            "x": -79.8373596093858,
+            "y": 43.69640166615104
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JOHN FISHER E.S.",
+            "ADDRESS": "330 BALMORAL DR"
+         },
+         "geometry": {
+            "x": -79.71104886894099,
+            "y": 43.71124161747876
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BISHOP FRANCIS ALLEN E.S.",
+            "ADDRESS": "325 MCMURCHY AVE S"
+         },
+         "geometry": {
+            "x": -79.74707469073192,
+            "y": 43.666167034753485
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CENTRAL PEEL S.S.",
+            "ADDRESS": "32 KENNEDY RD N"
+         },
+         "geometry": {
+            "x": -79.75135899641417,
+            "y": 43.698635637310836
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "PEEL ALTERNATIVE SCHOOL NORTH",
+            "ADDRESS": "315 BARTLEY BULL PKY"
+         },
+         "geometry": {
+            "x": -79.73214934584304,
+            "y": 43.679047887349974
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MCHUGH P.S.",
+            "ADDRESS": "31 CRAIG ST"
+         },
+         "geometry": {
+            "x": -79.75918330641194,
+            "y": 43.67973942484372
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ISAAC JOGUES E.S.",
+            "ADDRESS": "300 GREAT LAKES DR"
+         },
+         "geometry": {
+            "x": -79.76969519442135,
+            "y": 43.73582223413994
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CONESTOGA P.S.",
+            "ADDRESS": "300 CONESTOGA DR"
+         },
+         "geometry": {
+            "x": -79.78619386849873,
+            "y": 43.71522887408057
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. RITA E.S.",
+            "ADDRESS": "30 SUMMER VALLEY DR"
+         },
+         "geometry": {
+            "x": -79.82471454577396,
+            "y": 43.73695807494512
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROBERTA BONDAR P.S.",
+            "ADDRESS": "30 PANTOMINE BLVD"
+         },
+         "geometry": {
+            "x": -79.75525656308187,
+            "y": 43.64078175904644
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SUNNY VIEW M.S.",
+            "ADDRESS": "30 CHAPPARAL DR"
+         },
+         "geometry": {
+            "x": -79.75554801206388,
+            "y": 43.76149309159992
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROWNTREE MONTESSORI SCHOOLS",
+            "ADDRESS": "3 SUNFOREST DR"
+         },
+         "geometry": {
+            "x": -79.7837338872138,
+            "y": 43.70949634989565
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "QUEENSWOOD HIGH SCHOOL",
+            "ADDRESS": "209-1090 PETER ROBINSON BLVD"
+         },
+         "geometry": {
+            "x": -79.73688544970726,
+            "y": 43.757164631275906
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HEART LAKE S.S.",
+            "ADDRESS": "296 CONESTOGA DR"
+         },
+         "geometry": {
+            "x": -79.78865286320215,
+            "y": 43.71663679330462
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "STANLEY MILLS P.S.",
+            "ADDRESS": "286 SUNNY MEADOW BLVD"
+         },
+         "geometry": {
+            "x": -79.75818487574155,
+            "y": 43.76054035767041
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GREAT LAKES P.S.",
+            "ADDRESS": "285 GREAT LAKES DR"
+         },
+         "geometry": {
+            "x": -79.76800583047174,
+            "y": 43.736671530765626
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MOUNTAIN ASH P.S.",
+            "ADDRESS": "280 MOUNTAINASH RD"
+         },
+         "geometry": {
+            "x": -79.7445853522533,
+            "y": 43.771931992160894
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GOOD SHEPHERD E.S.",
+            "ADDRESS": "28 RED RIVER DR"
+         },
+         "geometry": {
+            "x": -79.74665342726412,
+            "y": 43.75626348006027
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROY MCMURTRY SCHOOL",
+            "ADDRESS": "8500 MCLAUGHLIN RD S"
+         },
+         "geometry": {
+            "x": -79.75807003534386,
+            "y": 43.66464085068832
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "RAY LAWSON P.S.",
+            "ADDRESS": "725 RAY LAWSON BLVD"
+         },
+         "geometry": {
+            "x": -79.74582909333056,
+            "y": 43.64229390353943
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "INGLEBOROUGH P.S.",
+            "ADDRESS": "60 INGLEBOROUGH DR"
+         },
+         "geometry": {
+            "x": -79.80339875157448,
+            "y": 43.65965830420301
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FAIRLAWN P.S.",
+            "ADDRESS": "40 FAIRLAWN BLVD"
+         },
+         "geometry": {
+            "x": -79.72594358490811,
+            "y": 43.76806913879086
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CASTLEBROOKE S.S.",
+            "ADDRESS": "10 GARDENBROOKE TRAIL"
+         },
+         "geometry": {
+            "x": -79.67698812954933,
+            "y": 43.78477598490781
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "KINDERKOLLEGE ELEMENTARY SCHOOL",
+            "ADDRESS": "011-150 CENTRAL PARK DR"
+         },
+         "geometry": {
+            "x": -79.72022992042477,
+            "y": 43.71837966769822
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GEORGES VANIER CATHOLIC E.S.",
+            "ADDRESS": "28 FINCHGATE BLVD"
+         },
+         "geometry": {
+            "x": -79.71139070408391,
+            "y": 43.72751853108832
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FERNFOREST P.S.",
+            "ADDRESS": "275 FERNFOREST DR"
+         },
+         "geometry": {
+            "x": -79.75762762455034,
+            "y": 43.746453812759114
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. EDMUND CAMPION S.S.",
+            "ADDRESS": "275 BRISDALE DR"
+         },
+         "geometry": {
+            "x": -79.83013078825144,
+            "y": 43.69471448083068
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. AUGUSTINE S.S.",
+            "ADDRESS": "27 DRINKWATER RD"
+         },
+         "geometry": {
+            "x": -79.76486100462758,
+            "y": 43.65811317732141
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SANDALWOOD HEIGHTS S.S.",
+            "ADDRESS": "2671 SANDALWOOD PKY E"
+         },
+         "geometry": {
+            "x": -79.74408524233516,
+            "y": 43.765927054158794
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "RUSSELL D. BARBER P.S.",
+            "ADDRESS": "255 NORTH PARK DR"
+         },
+         "geometry": {
+            "x": -79.75101368562854,
+            "y": 43.723503137730404
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROWNTREE P.S.",
+            "ADDRESS": "254 QUEEN MARY DR"
+         },
+         "geometry": {
+            "x": -79.81906457092117,
+            "y": 43.706616741760044
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BRAMPTON CENTENNIAL S.S.",
+            "ADDRESS": "251 MCMURCHY AVE S"
+         },
+         "geometry": {
+            "x": -79.74839800335498,
+            "y": 43.66658239502554
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SIR JOHN A. MACDONALD SR.P.S.",
+            "ADDRESS": "250 CENTRE ST N"
+         },
+         "geometry": {
+            "x": -79.76590115947444,
+            "y": 43.699502970418024
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FATHER CLAIR TIPPING E.S.",
+            "ADDRESS": "25 MOUNTAINBERRY RD"
+         },
+         "geometry": {
+            "x": -79.73169675341751,
+            "y": 43.764847619634814
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ECOLE ELEMENTAIRE CATHOLIQUE SAINTE-JEANNE-D'ARC",
+            "ADDRESS": "25 LAURELCREST ST"
+         },
+         "geometry": {
+            "x": -79.73670994734984,
+            "y": 43.71069630235018
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. LUCY CATHOLIC E.S.",
+            "ADDRESS": "25 KANATA RD"
+         },
+         "geometry": {
+            "x": -79.82115358994565,
+            "y": 43.70815602613938
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. THOMAS AQUINAS S.S.",
+            "ADDRESS": "25 CORPORATION DR"
+         },
+         "geometry": {
+            "x": -79.7106269715713,
+            "y": 43.73905550727414
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "RIDGEVIEW P.S.",
+            "ADDRESS": "25 BRENDA AVE"
+         },
+         "geometry": {
+            "x": -79.7566004647762,
+            "y": 43.67251481398531
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HOLY SPIRIT E.S.",
+            "ADDRESS": "25 BLOOMSBURY AVE"
+         },
+         "geometry": {
+            "x": -79.72961554190988,
+            "y": 43.78460900087074
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SACRED HEART E.S.",
+            "ADDRESS": "24 KERWOOD PL"
+         },
+         "geometry": {
+            "x": -79.7986811490029,
+            "y": 43.733371067012946
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GOLDCREST P.S.",
+            "ADDRESS": "24 GOLDCREST RD"
+         },
+         "geometry": {
+            "x": -79.72053523844049,
+            "y": 43.7298505068889
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "PARKWAY P.S.",
+            "ADDRESS": "24 DUNCAN BULL DR"
+         },
+         "geometry": {
+            "x": -79.73881138405639,
+            "y": 43.67672093512303
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CHEYNE M.S.",
+            "ADDRESS": "236 QUEEN MARY DR"
+         },
+         "geometry": {
+            "x": -79.81828253325142,
+            "y": 43.70547669630122
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "KINGSWOOD DRIVE P.S.",
+            "ADDRESS": "235 KINGSWOOD DR"
+         },
+         "geometry": {
+            "x": -79.76604110546184,
+            "y": 43.70250573728518
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HEWSON P.S.",
+            "ADDRESS": "235 FATHER TOBIN RD"
+         },
+         "geometry": {
+            "x": -79.7599260249018,
+            "y": 43.766295327642176
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BALMORAL DRIVE SR.P.S.",
+            "ADDRESS": "233 BALMORAL DR"
+         },
+         "geometry": {
+            "x": -79.71241794078567,
+            "y": 43.70844070404476
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HUTTONVILLE P.S.",
+            "ADDRESS": "2322 EMBLETON RD"
+         },
+         "geometry": {
+            "x": -79.80975247077286,
+            "y": 43.64168229885805
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CANADA CHRISTIAN ACADEMY",
+            "ADDRESS": "22 ABBEY RD"
+         },
+         "geometry": {
+            "x": -79.74161558436364,
+            "y": 43.68007824878443
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HANOVER P.S.",
+            "ADDRESS": "215 HANOVER RD"
+         },
+         "geometry": {
+            "x": -79.7290426400333,
+            "y": 43.71892269015601
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BEATTY-FLEMING SR.P.S.",
+            "ADDRESS": "21 CAMPBELL DR"
+         },
+         "geometry": {
+            "x": -79.77852242922876,
+            "y": 43.678786309990066
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CLARK BOULEVARD P.S.",
+            "ADDRESS": "201 CLARK BLVD"
+         },
+         "geometry": {
+            "x": -79.71814353391244,
+            "y": 43.7147772309155
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ROCH CATHOLIC S.S.",
+            "ADDRESS": "200 VALLEYWAY DR"
+         },
+         "geometry": {
+            "x": -79.80660335389811,
+            "y": 43.672934732227226
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MORTON WAY P.S.",
+            "ADDRESS": "200 MORTON WAY"
+         },
+         "geometry": {
+            "x": -79.75104040299675,
+            "y": 43.656285825146405
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "WESTERVELTS CORNERS P.S.",
+            "ADDRESS": "20 BRICKYARD WAY"
+         },
+         "geometry": {
+            "x": -79.7803593468433,
+            "y": 43.704324688472965
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "NOTRE DAME S.S.",
+            "ADDRESS": "2 NOTRE DAME AVE"
+         },
+         "geometry": {
+            "x": -79.77963670188439,
+            "y": 43.719572135238366
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. LEONARD E.S.",
+            "ADDRESS": "185 CONESTOGA DR"
+         },
+         "geometry": {
+            "x": -79.79068442900159,
+            "y": 43.72338444248172
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "GORDON GRAYDON SR.P.S.",
+            "ADDRESS": "170 RUTHERFORD RD N"
+         },
+         "geometry": {
+            "x": -79.75475536423716,
+            "y": 43.70800852192536
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. STEPHEN E.S.",
+            "ADDRESS": "17 COLONEL BERTRAM RD"
+         },
+         "geometry": {
+            "x": -79.8157188321278,
+            "y": 43.728243048805695
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ROBERT J. LEE P.S.",
+            "ADDRESS": "160 MOUNTAINASH RD"
+         },
+         "geometry": {
+            "x": -79.7353017306321,
+            "y": 43.76389543459419
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CALDERSTONE M.S.",
+            "ADDRESS": "160 CALDERSTONE RD"
+         },
+         "geometry": {
+            "x": -79.69240494089358,
+            "y": 43.77202812259766
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CHERRYTREE P.S.",
+            "ADDRESS": "155 CHERRYTREE DR"
+         },
+         "geometry": {
+            "x": -79.72483284215157,
+            "y": 43.65408413610953
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "OUR LADY OF PEACE SEPARATE E.S.",
+            "ADDRESS": "15 FINCHAM AVE"
+         },
+         "geometry": {
+            "x": -79.78510191023445,
+            "y": 43.67407835406573
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "TREELINE P.S.",
+            "ADDRESS": "145 TREELINE BLVD"
+         },
+         "geometry": {
+            "x": -79.73286327640044,
+            "y": 43.778321502454084
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ARNOTT CHARLTON P.S.",
+            "ADDRESS": "140 WINTERFOLD DR"
+         },
+         "geometry": {
+            "x": -79.76760271246206,
+            "y": 43.715049490970955
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "JAMES POTTER P.S.",
+            "ADDRESS": "9775 CREDITVIEW RD"
+         },
+         "geometry": {
+            "x": -79.81139762900395,
+            "y": 43.67289095682454
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CLAIREVILLE P.S.",
+            "ADDRESS": "97 GALLUCCI CRES"
+         },
+         "geometry": {
+            "x": -79.67093543122645,
+            "y": 43.771463844573816
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ANTHONY E.S.",
+            "ADDRESS": "950 NORTH PARK DR"
+         },
+         "geometry": {
+            "x": -79.74220620821424,
+            "y": 43.73630731388776
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "TERRY FOX P.S.",
+            "ADDRESS": "95 RICHVALE DR N"
+         },
+         "geometry": {
+            "x": -79.79273493322624,
+            "y": 43.73142202381474
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MASSEY STREET P.S.",
+            "ADDRESS": "95 MASSEY ST"
+         },
+         "geometry": {
+            "x": -79.74644387198468,
+            "y": 43.73819976215871
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "FLETCHER'S CREEK SR.P.S.",
+            "ADDRESS": "92 MALTA AVE"
+         },
+         "geometry": {
+            "x": -79.73040615604685,
+            "y": 43.65835600028965
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HELEN WILSON P.S.",
+            "ADDRESS": "9 ABBEY RD"
+         },
+         "geometry": {
+            "x": -79.74189496618888,
+            "y": 43.681390255487116
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SIR WINSTON CHURCHILL P.S.",
+            "ADDRESS": "89 ARDGLEN DR"
+         },
+         "geometry": {
+            "x": -79.74879737651857,
+            "y": 43.68901034964805
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "TALL PINES SCHOOL",
+            "ADDRESS": "8525 TORBRAM RD"
+         },
+         "geometry": {
+            "x": -79.69313643059688,
+            "y": 43.72516555280771
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BURNT ELM P.S.",
+            "ADDRESS": "85 BURNT ELM DR"
+         },
+         "geometry": {
+            "x": -79.81831975728292,
+            "y": 43.71848586591107
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MCCRIMMON M.S.",
+            "ADDRESS": "83 MCCRIMMON DR"
+         },
+         "geometry": {
+            "x": -79.82694063035022,
+            "y": 43.690458504533964
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. ANGELA MERICI CATHOLIC E.S.",
+            "ADDRESS": "83 EDENBROOK HILL DR"
+         },
+         "geometry": {
+            "x": -79.81058326128469,
+            "y": 43.695593879208765
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "HIGH FIVE ACADEMY FOR LEARNING",
+            "ADDRESS": "4-611 WANLESS DR"
+         },
+         "geometry": {
+            "x": -79.82706936191688,
+            "y": 43.71272779932118
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ONTARIO E-SECONDARY SCHOOL",
+            "ADDRESS": "4-2131 WILLIAMS PKY"
+         },
+         "geometry": {
+            "x": -79.70170528563473,
+            "y": 43.758810759869064
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SHILOH CHRISTIAN INSTITUTE",
+            "ADDRESS": "4316 EBENEZER RD"
+         },
+         "geometry": {
+            "x": -79.66797955977133,
+            "y": 43.769166106040785
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SIR FREDERICK BANTING INTERNATIONAL SCHOOL",
+            "ADDRESS": "21 COVENTRY RD"
+         },
+         "geometry": {
+            "x": -79.69399364175042,
+            "y": 43.73925824879673
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "THE EDUCATORS ACADEMY",
+            "ADDRESS": "201,202-9715 JAMES POTTER RD"
+         },
+         "geometry": {
+            "x": -79.80597155602523,
+            "y": 43.674918613914684
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. DANIEL COMBONI CATHOLIC E.S.",
+            "ADDRESS": "120 VETERANS DR"
+         },
+         "geometry": {
+            "x": -79.8411704020139,
+            "y": 43.679598721066384
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ISP PREP  MIDDLE-SECONDARY SCHOOL OF MEDICINE",
+            "ADDRESS": "509-2250 BOVAIRD DR"
+         },
+         "geometry": {
+            "x": -79.73830461981444,
+            "y": 43.75117982224026
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "KCS ONLINE LEARNING",
+            "ADDRESS": "69 MAITLAND ST"
+         },
+         "geometry": {
+            "x": -79.74028971240642,
+            "y": 43.73095600788071
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "SCHOLARS ACADEMY",
+            "ADDRESS": "15-2955 SANDALWOOD PKWY E"
+         },
+         "geometry": {
+            "x": -79.73065764514604,
+            "y": 43.76813650183017
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "UMMATI LEARNING CENTER",
+            "ADDRESS": "200-205 COUNTY COURT BLVD"
+         },
+         "geometry": {
+            "x": -79.72315999021878,
+            "y": 43.660160967119886
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "AIMS PLUS HIGH SCHOOL",
+            "ADDRESS": "114-284 QUEEN ST E"
+         },
+         "geometry": {
+            "x": -79.74622473260523,
+            "y": 43.699593172336435
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ST. JACINTA MARTO CATHOLIC E.S.",
+            "ADDRESS": "40 FALLOWFIELD RD"
+         },
+         "geometry": {
+            "x": -79.79862596979724,
+            "y": 43.657036686346274
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ACE SCHOLARS ACADEMY",
+            "ADDRESS": "201-9990 THE GORE RD"
+         },
+         "geometry": {
+            "x": -79.68970449363631,
+            "y": 43.791202418949325
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CITEM SECONDARY SCHOOL",
+            "ADDRESS": "488-2 COUNTY COURT BLVD"
+         },
+         "geometry": {
+            "x": -79.72826484106177,
+            "y": 43.66325825391607
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "STEM MONTESSORI ACADEMY OF CANADA",
+            "ADDRESS": "24 ALEXANDER ST"
+         },
+         "geometry": {
+            "x": -79.76310684465534,
+            "y": 43.69028078847402
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "QUEENS GATE ACADEMY",
+            "ADDRESS": "3-255 QUEEN ST E"
+         },
+         "geometry": {
+            "x": -79.74366380071837,
+            "y": 43.69959411591734
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "XPERT PRIVATE HIGH SCHOOL",
+            "ADDRESS": "118-50 LACOSTE BLVD"
+         },
+         "geometry": {
+            "x": -79.7529465079887,
+            "y": 43.7876804154578
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MY FIRST MONTESSORI SCHOOL",
+            "ADDRESS": "C-11210 CREDITVIEW RD"
+         },
+         "geometry": {
+            "x": -79.84879104696897,
+            "y": 43.69726668165259
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "CANSTEM EDUCATION PRIVATE SCHOOL",
+            "ADDRESS": "350 RUTHERFORD RD S"
+         },
+         "geometry": {
+            "x": -79.71734302805298,
+            "y": 43.68157923508043
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "EDUSMILE ONTARIO HIGH SCHOOL",
+            "ADDRESS": "10510 TORBRAM RD"
+         },
+         "geometry": {
+            "x": -79.74864650085033,
+            "y": 43.76470198169472
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ELITE PRIVATE SCHOOL DE ONTARIO",
+            "ADDRESS": "24 JACKSONVILLE DR"
+         },
+         "geometry": {
+            "x": -79.73336402321864,
+            "y": 43.78679736391444
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "EXCEL YOUR EDUCATION ACADEMY",
+            "ADDRESS": "2053 WILLIAMS PKY"
+         },
+         "geometry": {
+            "x": -79.70086944333005,
+            "y": 43.75761899601373
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "MY LEARNING OASIS",
+            "ADDRESS": "24 JACKSONVILLE DR"
+         },
+         "geometry": {
+            "x": -79.73336402321864,
+            "y": 43.78679736391444
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "POLKADOTS PLAYLAND & MONTESSORI CENTRE",
+            "ADDRESS": "305 ROYAL WEST DR"
+         },
+         "geometry": {
+            "x": -79.81317753129507,
+            "y": 43.65997922185649
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "QUARK WEST SCHOOL",
+            "ADDRESS": "5 MONTPELIER ST"
+         },
+         "geometry": {
+            "x": -79.78433368033008,
+            "y": 43.63266695522018
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "THE LEARNING HABITAT",
+            "ADDRESS": "30 MAIN ST S"
+         },
+         "geometry": {
+            "x": -79.75860606820542,
+            "y": 43.68538576696965
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "UNITED SCHOLASTIC ACADEMY BRAMPTON",
+            "ADDRESS": "25 KINGS CROSS RD"
+         },
+         "geometry": {
+            "x": -79.71791617607535,
+            "y": 43.72036869537103
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "ADULT EDUCATION CENTRE NORTH (BRAMALEA)",
+            "ADDRESS": "510 BALMORAL DR"
+         },
+         "geometry": {
+            "x": -79.70730179555676,
+            "y": 43.715338453712455
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BONI MONTESSORI",
+            "ADDRESS": "9886 TORBRAM RD"
+         },
+         "geometry": {
+            "x": -79.72810681461272,
+            "y": 43.74944188353519
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "RYERSON UNIVERSITY",
+            "ADDRESS": "101-2 WELLINGTON ST W"
+         },
+         "geometry": {
+            "x": -79.75989863858229,
+            "y": 43.68474262910595
+         }
+      },
+      {
+         "attributes": {
+            "SCHOOL_NAME": "BRAMPTON COLLEGE OF HEALTH,BUSINESS & TECHNOLOGY",
+            "ADDRESS": "206-7956 TORBRAM RD"
+         },
+         "geometry": {
+            "x": -79.67791048801988,
+            "y": 43.71197172335984
+         }
+      }
+   ]
+}
